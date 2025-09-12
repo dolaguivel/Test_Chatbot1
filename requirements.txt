@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+openpyxl
+fpdf
+pydeck>=0.8.0
+fastapi
+uvicorn
+natsort
+python-multipart
